@@ -2,14 +2,12 @@
 
 Макет сайта предоставлен заказчиком
 
-Ссылка на live-версию сайта - https://sofihihi23.github.io/Landing_order-1/
+Ссылка на live-версию сайта - https://sofihihi23.github.io/Landing_order-2/
 
 - PixelPerfect верстка
 - Адаптивный сайт
 - По методологии БЭМ
 - Изображения в формате Webp
 - Ссылки и кнопки имеют hover, focus, active
-Фильтры каталога товоров выполнены через js
-Карточки товаров имеют доп функционал по hover
 - Проверка на Validator W3 прошла без ошибок
-- Проверка dekstop на LightHouse в зеленой зоне
+- Проверка dekstop и mobile на LightHouse в зеленой зоне
